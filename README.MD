@@ -10,5 +10,5 @@
 
 created using:
 ```js
-create-react-app
+npm create-react-app
 ```
