@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/md-previewer/static/js/main.d700c06d.js",
+    "index.html": "/md-previewer/index.html",
+    "main.d700c06d.js.map": "/md-previewer/static/js/main.d700c06d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d700c06d.js"
+  ]
+}
